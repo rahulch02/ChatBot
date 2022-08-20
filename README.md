@@ -41,9 +41,9 @@ $ cd Image-Classification-GUI
 ```
 
 2) Install the dependencies
-#####  For Python
-```bash
-$ pip install -r requirements.txt
-```
+  ##### For Python
+  ```bash
+  $ pip install -r requirements.txt
+  ```
 
 
