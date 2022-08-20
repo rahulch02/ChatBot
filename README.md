@@ -36,8 +36,8 @@ best experience.
 ## Setup Instructions
 1) Clone the repository
 ```python
-$ git clone https://github.com/rahulch02/Image-Classification-GUI.git
-$ cd Image-Classification-GUI
+$ git clone https://github.com/rahulch02/ChatBot.git
+$ cd ChatBot
 ```
 
 2) Install the dependencies
