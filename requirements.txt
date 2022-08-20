@@ -1,0 +1,6 @@
+pickle
+nltk
+numpy
+matplotlib
+keras
+tkinter
